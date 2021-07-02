@@ -5,6 +5,7 @@ Hardware: This is a 3D Hologram-like Display, 3D printed node case
 
 
 
+
 -----------------------------------------------
 # FAQ
 Q: What is the BeingDisplay?
