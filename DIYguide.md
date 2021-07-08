@@ -1,7 +1,14 @@
 # BeingDisplay DIY guide
-A step-by-step guide to build your own BeingDisplay
+A step-by-step guide to build your own BeingDisplay, a 3D Hologram-like Display, 3D printed node case
+------
+[images uploaded soon]
 
-Hardware: This is a 3D Hologram-like Display, 3D printed node case
+------
+# Step 0
+Hardware prerequisites:
+• [See our BOM (Bill of Materials) list here: ]
+• Desire to become a Hologram
+
 
 [images uploaded soon]
 
