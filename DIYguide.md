@@ -1,5 +1,5 @@
 # BeingDisplay DIY guide
-A step-by-step guide to build your own BeingDisplay, a 3D Hologram-like Display, 3D printed node case
+A step-by-step guide to build your own BeingDisplay, the 3D printed Hologram-like Display node case
 ------
 [images uploaded soon]
 
