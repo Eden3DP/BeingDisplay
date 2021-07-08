@@ -8,6 +8,7 @@ A step-by-step guide to build your own BeingDisplay, a 3D Hologram-like Display,
 Hardware prerequisites:
 
 • [See our BOM (Bill of Materials) list here: ]
+
 • Desire to become a Hologram
 
 
