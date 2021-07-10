@@ -15,7 +15,7 @@ Hardware prerequisites:
 # Step 1
 Source all necessary components:
 
-• Review that yo have all necessary hardware and software components ready to begin assembly [viewable above in 'Step 0']
+• Review that you have all necessary hardware and software components ready to begin assembly [viewable above in 'Step 0']
 
 • Prepare MicroSD card for operating system (for Mac, Linux and [we're so sorry] virus-infested windows systems)
 
@@ -23,8 +23,19 @@ Source all necessary components:
 
 1. Download balenaEtcher
 
+Find on their website or github page to download 'BalenaEtcher' for your desired operating system
+
 - Main website: http://balena.io/etcher
 - Github: https://github.com/balena-io/etcher
+
+2. Check to prepare your microSD card for flashing operating system (.img file) 
+
+- Make sure this is either a brand new microSD card, or a freshly cleaned (microSD hardrive card wiped) microSD card
+
+2a. How to reuse an existing microSD card
+
+-
+-
 
 
 
