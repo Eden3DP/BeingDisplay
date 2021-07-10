@@ -7,7 +7,7 @@ A step-by-step guide to build your own BeingDisplay, the 3D printed Hologram-lik
 # Step 0
 Hardware prerequisites:
 
-• [See our BOM (Bill of Materials) list here: ]
+• [See our BOM (Bill of Materials) list here: https://github.com/Eden3DP/BeingDisplay/blob/main/'BeingDisplay'%20BOM_RD.xlsx]
 
 • Desire to become a Hologram
 
