@@ -11,8 +11,21 @@ Hardware prerequisites:
 
 • Desire to become a Hologram
 
+------
+# Step 1
+Source all necessary components:
 
-[images uploaded soon]
+• Review that yo have all necessary hardware and software components ready to begin assembly [viewable above in 'Step 0']
+
+• Prepare MicroSD card for operating system (for Mac, Linux and [we're so sorry] virus-infested windows systems)
+
+(Mac & Linux)
+
+1. Download balenaEtcher
+
+- Main website: http://balena.io/etcher
+- Github: https://github.com/balena-io/etcher
+
 
 
 
