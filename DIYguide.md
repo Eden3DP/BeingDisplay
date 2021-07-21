@@ -34,8 +34,9 @@ Find on their website or github page to download 'BalenaEtcher' for your desired
 
 2a. How to reuse an existing microSD card
 
--
--
+- Restore microSD card with your 'Disk Utility' application
+- Erase and reset microSD card to "FAT-32"
+* BE CAREFUL. VERIFY AGAIN WHICH HARD DRIVE YOU ARE ERASING. UNPROPER VERIFICATION OF ERASE COULD LEAD TO LOSS OF INFORMATION *
 
 
 
