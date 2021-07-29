@@ -42,7 +42,9 @@ Find on their website or github page to download 'BalenaEtcher' for your desired
 
 3. Flash microSD card with your favorite Bitcoin node package software (list shown below)
 
--  
+-  Raspiblitz: https://github.com/rootzoll/raspiblitz
+-  RoninDojo: https://github.com/RoninDojo/RoninDojo
+-  MyNodeBTC: https://github.com/mynodebtc/mynode
 
 -----------------------------------------------
 # FAQ
