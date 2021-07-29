@@ -40,8 +40,9 @@ Find on their website or github page to download 'BalenaEtcher' for your desired
 • *BE CAREFUL. VERIFY AGAIN WHICH HARD DRIVE YOU ARE ERASING. UNPROPER VERIFICATION OF ERASE COULD LEAD TO LOSS OF INFORMATION*
 
 
+3. Flash microSD card with your favorite Bitcoin node package software (list shown below)
 
-
+-  
 
 -----------------------------------------------
 # FAQ
