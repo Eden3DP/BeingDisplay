@@ -46,6 +46,8 @@ Find on their website or github page to download 'BalenaEtcher' for your desired
 -  RoninDojo: https://github.com/RoninDojo/RoninDojo
 -  MyNodeBTC: https://github.com/mynodebtc/mynode
 
+3a. Make sure to select "connected screen" to your single-board computer when setting up node package (comes default on Raspiblitz)
+
 -----------------------------------------------
 # FAQ
 Q: What is the BeingDisplay?
