@@ -39,7 +39,7 @@ Find on their website or github page to download 'BalenaEtcher' for your desired
 
 • *BE CAREFUL. VERIFY AGAIN WHICH HARD DRIVE YOU ARE ERASING. UNPROPER VERIFICATION OF ERASE COULD LEAD TO LOSS OF INFORMATION*
 
-
+2b. Verify microSD card is wiped clean, and reformated to "FAT-32" structure
 
 ------
 # Step 2
